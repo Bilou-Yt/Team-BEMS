@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: https://bilou-yt.github.io/Team-BEMS/sitemap.xml
