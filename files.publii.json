@@ -1,0 +1,412 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "8b767b0a5e2b7fdd79775a9e1a9c5182"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/fontawesome-all.min.css",
+        "type": "file",
+        "md5": "85514f933f9e0b82460af63f1a403fa5"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "341db2a42c3324257d89b56dd1afb898"
+    },
+    {
+        "path": "/assets/css/noscript.css",
+        "type": "file",
+        "md5": "0674c292c8e37336effd100b6e788a7c"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "78d86636e08e95c559a16dfe517c9130"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/images",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/images/overlay.png",
+        "type": "file",
+        "md5": "34aca8cf1dcd5a4077c26c80950d00c6"
+    },
+    {
+        "path": "/assets/images/placeholder-membres.jpg",
+        "type": "file",
+        "md5": "33a06b7272c94ce66ce7c844d99e0e3c"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/breakpoints.min.js",
+        "type": "file",
+        "md5": "81a479eb099e3b187613943b085923b8"
+    },
+    {
+        "path": "/assets/js/browser.min.js",
+        "type": "file",
+        "md5": "c07298dd19048a8a69ad97e754dfe8d0"
+    },
+    {
+        "path": "/assets/js/jquery.min.js",
+        "type": "file",
+        "md5": "c9771cc3e90e18f5336eedbd0fffb2cf"
+    },
+    {
+        "path": "/assets/js/jquery.scrollex.min.js",
+        "type": "file",
+        "md5": "f89065e3d988006af9791b44561d7c90"
+    },
+    {
+        "path": "/assets/js/jquery.scrolly.min.js",
+        "type": "file",
+        "md5": "1ed5a78bde1476875a40f6b9ff44fc14"
+    },
+    {
+        "path": "/assets/js/main.js",
+        "type": "file",
+        "md5": "d5433762aebe47e7d1471db6d18f28ae"
+    },
+    {
+        "path": "/assets/js/main.min.js",
+        "type": "file",
+        "md5": "56233c354bd814758be8bff42f7e13a5"
+    },
+    {
+        "path": "/assets/js/util.js",
+        "type": "file",
+        "md5": "fd2716a7b68ce7748c9676787b61db43"
+    },
+    {
+        "path": "/assets/js/util.min.js",
+        "type": "file",
+        "md5": "4201a626f8c9b614a663b3a1d7d82615"
+    },
+    {
+        "path": "assets/webfonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/webfonts/AKONY.ttf",
+        "type": "file",
+        "md5": "ec7d0a558f886e9c20fceb990fdadf09"
+    },
+    {
+        "path": "/assets/webfonts/AKONY.woff2",
+        "type": "file",
+        "md5": "867e9ba5c74a412a2787b2ff81541450"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.ttf",
+        "type": "file",
+        "md5": "7d09abecdcbd61d9f7eed02ad7ed9f3e"
+    },
+    {
+        "path": "/assets/webfonts/fa-brands-400.woff2",
+        "type": "file",
+        "md5": "12129ae64db69ed98868da86ad4542b6"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.ttf",
+        "type": "file",
+        "md5": "49db3589f7cc4e2c2fbd61073450b881"
+    },
+    {
+        "path": "/assets/webfonts/fa-regular-400.woff2",
+        "type": "file",
+        "md5": "1183f80a7de1312c6aaed6cb2040d26b"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.ttf",
+        "type": "file",
+        "md5": "f4242a99ea504fbf8ddefb40c853de4d"
+    },
+    {
+        "path": "/assets/webfonts/fa-solid-900.woff2",
+        "type": "file",
+        "md5": "de8cf878500c5ec452ae912ddb9c7aaa"
+    },
+    {
+        "path": "/assets/webfonts/fa-v4compatibility.ttf",
+        "type": "file",
+        "md5": "d38445641a866e80bccf9cb4c4a03de8"
+    },
+    {
+        "path": "/assets/webfonts/fa-v4compatibility.woff2",
+        "type": "file",
+        "md5": "5f14f683621dbaf2d3644848b74c5a7f"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/nathaniel-theriault",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/nathaniel-theriault/index.html",
+        "type": "file",
+        "md5": "4086c2499f44295bb15cb69aebfb4508"
+    },
+    {
+        "path": "createurs-de-contenu",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/createurs-de-contenu/index.html",
+        "type": "file",
+        "md5": "11e506f8aa61dd6c7235a5a0ee10ea05"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "8f90f7d51e41f0213316b3299f1b527b"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "06aa44b8d6a123b4074b9c6c91f1c6e2"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "57d33a7cd4490c443491e0d58312c2a5"
+    },
+    {
+        "path": "lhistoire-de-la-team-bems",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/lhistoire-de-la-team-bems/index.html",
+        "type": "file",
+        "md5": "31a57f01d1094e509a5fd833bb859840"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/files",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/files/placeholder-membres.jpg",
+        "type": "file",
+        "md5": "33a06b7272c94ce66ce7c844d99e0e3c"
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/placeholder-membres.jpg",
+        "type": "file",
+        "md5": "33a06b7272c94ce66ce7c844d99e0e3c"
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/4/responsive/placeholder-membres-2xl.jpg",
+        "type": "file",
+        "md5": "974482a7fdf32cfd860e4ef63d8bc594"
+    },
+    {
+        "path": "/media/posts/4/responsive/placeholder-membres-lg.jpg",
+        "type": "file",
+        "md5": "00add775916552720965aac45efe7eae"
+    },
+    {
+        "path": "/media/posts/4/responsive/placeholder-membres-md.jpg",
+        "type": "file",
+        "md5": "c2b4296b06abaf694aecce7746d6de92"
+    },
+    {
+        "path": "/media/posts/4/responsive/placeholder-membres-sm.jpg",
+        "type": "file",
+        "md5": "822188a9f96693ee07b1f128beb4324c"
+    },
+    {
+        "path": "/media/posts/4/responsive/placeholder-membres-xl.jpg",
+        "type": "file",
+        "md5": "974482a7fdf32cfd860e4ef63d8bc594"
+    },
+    {
+        "path": "/media/posts/4/responsive/placeholder-membres-xs.jpg",
+        "type": "file",
+        "md5": "a0940418618061290af42e0b8e8a82a0"
+    },
+    {
+        "path": "media/posts/5",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/5/gallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/gallery/ancien-logo-BEMS-sur-WWII-thumbnail.jpg",
+        "type": "file",
+        "md5": "d852a2e238119bb36523572e184e49f5"
+    },
+    {
+        "path": "/media/posts/5/gallery/ancien-logo-BEMS-sur-WWII.jpg",
+        "type": "file",
+        "md5": "ae84df4a9d07e38dbc75d867b6d54967"
+    },
+    {
+        "path": "/media/posts/5/gallery/premiere-apparition-du-nom-BEMS-en-video-thumbnail.JPG",
+        "type": "file",
+        "md5": "ed9bcc32e5f8a7ac9351040571ed967c"
+    },
+    {
+        "path": "/media/posts/5/gallery/premiere-apparition-du-nom-BEMS-en-video.JPG",
+        "type": "file",
+        "md5": "c56d294221a5339215db058884aa43a9"
+    },
+    {
+        "path": "/media/posts/5/premiere-apparition-du-nom-BEMS-en-video.JPG",
+        "type": "file",
+        "md5": "c56d294221a5339215db058884aa43a9"
+    },
+    {
+        "path": "media/posts/5/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/5/responsive/premiere-apparition-du-nom-BEMS-en-video-2xl.JPG",
+        "type": "file",
+        "md5": "50fae8ddf224511a0e87738cffd4a22c"
+    },
+    {
+        "path": "/media/posts/5/responsive/premiere-apparition-du-nom-BEMS-en-video-lg.JPG",
+        "type": "file",
+        "md5": "5a4b6e844ba6566711d737210514f376"
+    },
+    {
+        "path": "/media/posts/5/responsive/premiere-apparition-du-nom-BEMS-en-video-md.JPG",
+        "type": "file",
+        "md5": "9be21a2a17acd982c41b27b7c2e8ceb2"
+    },
+    {
+        "path": "/media/posts/5/responsive/premiere-apparition-du-nom-BEMS-en-video-sm.JPG",
+        "type": "file",
+        "md5": "f89256e2f398a2ffd995cd1570bac2a3"
+    },
+    {
+        "path": "/media/posts/5/responsive/premiere-apparition-du-nom-BEMS-en-video-xl.JPG",
+        "type": "file",
+        "md5": "50fae8ddf224511a0e87738cffd4a22c"
+    },
+    {
+        "path": "/media/posts/5/responsive/premiere-apparition-du-nom-BEMS-en-video-xs.JPG",
+        "type": "file",
+        "md5": "07b211a9e27ace35193facb6a6d882a0"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/Logo-BEMS-2026-2.jpg",
+        "type": "file",
+        "md5": "977d70afffe9e795b20b5cf9ce27904c"
+    },
+    {
+        "path": "/media/website/Logo-BEMS-2026.jpg",
+        "type": "file",
+        "md5": "977d70afffe9e795b20b5cf9ce27904c"
+    },
+    {
+        "path": "membres",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/membres/index.html",
+        "type": "file",
+        "md5": "c7563cd1a2246a6e3d34b5d385caef04"
+    },
+    {
+        "path": "rejoindre-la-team-bems",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/rejoindre-la-team-bems/index.html",
+        "type": "file",
+        "md5": "eb8e7c2f2a78dfbd60cca6f69fc937e3"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "3cc52f1763d39274ce40cc2da0fdcc3f"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "b0b9552c4b025c49d5a6d0911506a8ad"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "8c22b06ebe40de33a31435b45969c278"
+    }
+]
