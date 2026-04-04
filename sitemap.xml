@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://bilou-yt.github.io/Team-BEMS/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://bilou-yt.github.io/Team-BEMS/</loc>
+</url>
+<url>
+<loc>https://bilou-yt.github.io/Team-BEMS/createurs-de-contenu/</loc>
+<lastmod>2026-04-03T17:30:03-04:00</lastmod>
+</url>
+<url>
+<loc>https://bilou-yt.github.io/Team-BEMS/lhistoire-de-la-team-bems/</loc>
+<lastmod>2026-04-03T13:25:44-04:00</lastmod>
+<image:image>
+<image:loc>https://bilou-yt.github.io/Team-BEMS/media/posts/5/gallery/premiere-apparition-du-nom-BEMS-en-video.JPG</image:loc>
+<image:title><![CDATA[Extrait de la première vidéo WWII sur la chaîne de Bilou]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://bilou-yt.github.io/Team-BEMS/media/posts/5/gallery/ancien-logo-BEMS-sur-WWII.jpg</image:loc>
+<image:title><![CDATA[WWII avec l'ancien logo BEMS]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://bilou-yt.github.io/Team-BEMS/membres/</loc>
+<lastmod>2026-04-03T13:00:29-04:00</lastmod>
+</url>
+<url>
+<loc>https://bilou-yt.github.io/Team-BEMS/rejoindre-la-team-bems/</loc>
+<lastmod>2026-04-03T15:01:05-04:00</lastmod>
+</url>
+</urlset>
